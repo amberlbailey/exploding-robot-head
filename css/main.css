@@ -32,6 +32,9 @@ body {
 
 .robot-brain {
   width: 46px;
+  position: absolute;
+  left: 136px;
+  top: 20%;
 }
 
 .robot-head-right,
@@ -41,7 +44,7 @@ body {
 
 .robot-head-left {
   position: absolute;
-  left: 0;
-  top: 0;
+  left: 30px;
+  top: -38px;
 
 }
